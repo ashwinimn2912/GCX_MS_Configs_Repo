@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_currency_code" table="customer_account" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_currency_code</element>
+            <name>customer_account</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:33:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_currency_code</sys_name>
+            <sys_package display_value="GCX MS Configs" source="304c728dc33fbd10cc6b98477d0131dc">304c728dc33fbd10cc6b98477d0131dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GCX MS Configs">304c728dc33fbd10cc6b98477d0131dc</sys_scope>
+            <sys_update_name>sys_choice_customer_account_u_currency_code</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:33:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AUD</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a401410471042101e051a8bd36d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:33:11</sys_updated_on>
+            <value>AUD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CNY</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:33:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af501410471042101e051a8bd36d43c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:33:33</sys_updated_on>
+            <value>CNY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DKK</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:33:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac701410471042101e051a8bd36d43c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:33:54</sys_updated_on>
+            <value>DKK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EUR</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15809010471042101e051a8bd36d43e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:34:13</sys_updated_on>
+            <value>EUR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GBP</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:34:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d290d010471042101e051a8bd36d43ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:34:38</sys_updated_on>
+            <value>GBP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HKD</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:34:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18b05410471042101e051a8bd36d43e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:34:57</sys_updated_on>
+            <value>HKD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>INR</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20c098dc47dc02101e051a8bd36d43dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:35:16</sys_updated_on>
+            <value>INR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JPY</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:35:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1dd0d410471042101e051a8bd36d43f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:35:34</sys_updated_on>
+            <value>JPY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KRW</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:35:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99e09c10471042101e051a8bd36d43a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:35:51</sys_updated_on>
+            <value>KRW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MYR</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:36:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9af09c10471042101e051a8bd36d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:36:14</sys_updated_on>
+            <value>MYR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NOK</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:36:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08115050471042101e051a8bd36d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:36:35</sys_updated_on>
+            <value>NOK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NZD</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:36:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c21dc10471042101e051a8bd36d4372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:36:54</sys_updated_on>
+            <value>NZD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SEK</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:37:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d319c10471042101e051a8bd36d4314</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:37:14</sys_updated_on>
+            <value>SEK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SGD</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:37:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18515c10471042101e051a8bd36d433a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:37:40</sys_updated_on>
+            <value>SGD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>THB</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:37:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c961d410471042101e051a8bd36d4370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:37:59</sys_updated_on>
+            <value>THB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TWD</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:38:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47719050471042101e051a8bd36d4368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:38:25</sys_updated_on>
+            <value>TWD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_currency_code</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USD</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:38:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5891dc50471042101e051a8bd36d4368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:38:51</sys_updated_on>
+            <value>USD</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

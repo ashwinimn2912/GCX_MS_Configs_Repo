@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_gcx_entity" label="GCX Entity" language="en" table="customer_account">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_gcx_entity</element>
+            <help/>
+            <hint/>
+            <label>GCX Entity</label>
+            <language>en</language>
+            <name>customer_account</name>
+            <plural>GCX Entities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 10:44:02</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GCX Entity</sys_name>
+            <sys_package display_value="GCX MS Configs" source="304c728dc33fbd10cc6b98477d0131dc">304c728dc33fbd10cc6b98477d0131dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GCX MS Configs">304c728dc33fbd10cc6b98477d0131dc</sys_scope>
+            <sys_update_name>sys_documentation_customer_account_u_gcx_entity_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:44:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

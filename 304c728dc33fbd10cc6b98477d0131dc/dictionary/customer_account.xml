@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="db962388471002101e051a8bd36d4383" extends="core_company" label="Account" max_length="40" name="customer_account" text_index="true" type="collection">
+        <element choice="1" label="Currency code" max_length="40" name="u_currency_code" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AUD" sequence="0" value="AUD"/>
+                <element inactive_on_update="false" label="CNY" sequence="1" value="CNY"/>
+                <element inactive_on_update="false" label="DKK" sequence="2" value="DKK"/>
+                <element inactive_on_update="false" label="EUR" sequence="3" value="EUR"/>
+                <element inactive_on_update="false" label="GBP" sequence="4" value="GBP"/>
+                <element inactive_on_update="false" label="HKD" sequence="5" value="HKD"/>
+                <element inactive_on_update="false" label="INR" sequence="6" value="INR"/>
+                <element inactive_on_update="false" label="JPY" sequence="7" value="JPY"/>
+                <element inactive_on_update="false" label="KRW" sequence="8" value="KRW"/>
+                <element inactive_on_update="false" label="MYR" sequence="9" value="MYR"/>
+                <element inactive_on_update="false" label="NOK" sequence="10" value="NOK"/>
+                <element inactive_on_update="false" label="NZD" sequence="11" value="NZD"/>
+                <element inactive_on_update="false" label="SEK" sequence="12" value="SEK"/>
+                <element inactive_on_update="false" label="SGD" sequence="13" value="SGD"/>
+                <element inactive_on_update="false" label="THB" sequence="14" value="THB"/>
+                <element inactive_on_update="false" label="TWD" sequence="15" value="TWD"/>
+                <element inactive_on_update="false" label="USD" sequence="16" value="USD"/>
+            </choice>
+        </element>
+        <element label="Purchasing organization" max_length="40" name="u_purchasing_organization" type="string"/>
+        <element label="GCX Area" max_length="40" name="u_gcx_area" type="string"/>
+        <element label="SAP Vendor Number" max_length="40" name="u_sap_vendor_number" type="string"/>
+        <element label="Customer Start Date" max_length="40" name="u_customer_start_date" type="glide_date"/>
+        <element choice="1" label="GCX Entity" max_length="40" name="u_gcx_entity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="FLAG" sequence="0" value="FLAG"/>
+                <element inactive_on_update="false" label="MS" sequence="1" value="MS"/>
+            </choice>
+        </element>
+        <element choice="1" label="Account state" max_length="40" name="u_account_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New Prospect" sequence="0" value="New Prospect"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="Active"/>
+            </choice>
+        </element>
+        <element label="GCX Region" max_length="40" name="u_gcx_region" type="string"/>
+        <element choice="1" label="Customer Category" max_length="40" name="u_customer_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Corporate" sequence="0" value="Corporate"/>
+            </choice>
+        </element>
+        <element label="Prev Customer Name" max_length="40" name="u_prev_customer_name" type="string"/>
+        <element choice="1" label="Customer Type" max_length="40" name="u_customer_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Silver" sequence="0" value="Silver"/>
+                <element inactive_on_update="false" label="Gold" sequence="1" value="Gold"/>
+                <element inactive_on_update="false" label="Platinum" sequence="2" value="Platinum"/>
+                <element inactive_on_update="false" label="Others" sequence="3" value="Others"/>
+            </choice>
+        </element>
+    </element>
+</database>
