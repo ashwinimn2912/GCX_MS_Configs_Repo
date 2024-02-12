@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="2639ef08479002101e051a8bd36d4333" label="Product Offering" max_length="40" name="sn_prd_pm_product_offering" type="collection">
+        <element choice="1" label="Family" max_length="40" name="u_family" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
