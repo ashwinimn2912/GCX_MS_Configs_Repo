@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d7962388471002101e051a8bd36d43a8" extends="sys_user" label="Contact" max_length="40" name="customer_contact" text_index="true" type="collection">
+        <element label="Alternate phone" max_length="40" name="u_alternate_phone" type="string"/>
+        <element choice="1" label="Spoken Language" max_length="255" name="u_spoken_language" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="English" sequence="0" value="English"/>
+                <element inactive_on_update="false" label="Non-English" sequence="1" value="Non-English"/>
+            </choice>
+        </element>
+        <element choice="1" label="Written Language" max_length="255" name="u_written_language" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Arabic" sequence="0" value="Arabic"/>
+                <element inactive_on_update="false" label="Chinese(Simplified)" sequence="1" value="Chinese(Simplified)"/>
+                <element inactive_on_update="false" label="Chinese(traditional)" sequence="2" value="Chinese(traditional)"/>
+                <element inactive_on_update="false" label="Danish" sequence="3" value="Danish"/>
+                <element inactive_on_update="false" label="Dutch" sequence="4" value="Dutch"/>
+                <element inactive_on_update="false" label="English" sequence="5" value="English"/>
+                <element inactive_on_update="false" label="French" sequence="6" value="French"/>
+                <element inactive_on_update="false" label="German" sequence="7" value="German"/>
+                <element inactive_on_update="false" label="Italian" sequence="8" value="Italian"/>
+                <element inactive_on_update="false" label="Japanese" sequence="9" value="Japanese"/>
+                <element inactive_on_update="false" label="Korean" sequence="10" value="Korean"/>
+                <element inactive_on_update="false" label="Portuguese" sequence="11" value="Portuguese"/>
+                <element inactive_on_update="false" label="Spanish" sequence="12" value="Spanish"/>
+            </choice>
+        </element>
+    </element>
+</database>

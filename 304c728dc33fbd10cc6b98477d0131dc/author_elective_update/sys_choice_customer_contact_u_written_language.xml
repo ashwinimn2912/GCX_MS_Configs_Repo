@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_written_language" table="customer_contact" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_written_language</element>
+            <name>customer_contact</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:58:34</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_written_language</sys_name>
+            <sys_package display_value="GCX MS Configs" source="304c728dc33fbd10cc6b98477d0131dc">304c728dc33fbd10cc6b98477d0131dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GCX MS Configs">304c728dc33fbd10cc6b98477d0131dc</sys_scope>
+            <sys_update_name>sys_choice_customer_contact_u_written_language</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:58:34</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arabic</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:58:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7481e2f5479402101e051a8bd36d4307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:58:34</sys_updated_on>
+            <value>Arabic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chinese(Simplified)</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:58:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0191a2f5479402101e051a8bd36d4329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:58:53</sys_updated_on>
+            <value>Chinese(Simplified)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chinese(traditional)</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:59:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99a1a2f5479402101e051a8bd36d4314</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:59:11</sys_updated_on>
+            <value>Chinese(traditional)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Danish</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5b1aeb5479402101e051a8bd36d431b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:59:34</sys_updated_on>
+            <value>Danish</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dutch</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 12:59:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67c12af5479402101e051a8bd36d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 12:59:52</sys_updated_on>
+            <value>Dutch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>English</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:00:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ce1a2f5479402101e051a8bd36d431a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:00:10</sys_updated_on>
+            <value>English</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>French</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:00:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00f1aaf5479402101e051a8bd36d43da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:00:27</sys_updated_on>
+            <value>French</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>German</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:00:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d402a2f5479402101e051a8bd36d436c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:00:48</sys_updated_on>
+            <value>German</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Italian</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:02:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>157226f5479402101e051a8bd36d4308</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:02:47</sys_updated_on>
+            <value>Italian</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Japanese</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:03:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b82e239479402101e051a8bd36d43f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:03:08</sys_updated_on>
+            <value>Japanese</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Korean</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:03:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7792aaf5479402101e051a8bd36d43b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:03:25</sys_updated_on>
+            <value>Korean</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portuguese</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:03:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04b2e639479402101e051a8bd36d430c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:03:43</sys_updated_on>
+            <value>Portuguese</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_written_language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spanish</label>
+            <language>en</language>
+            <name>customer_contact</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-12 13:03:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84c2e639479402101e051a8bd36d434b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-12 13:03:59</sys_updated_on>
+            <value>Spanish</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
